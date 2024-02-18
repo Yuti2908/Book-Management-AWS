@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book-Management-AWS/static/css/main.54a45be5.css",
+    "main.js": "/Book-Management-AWS/static/js/main.09c43d77.js",
+    "static/js/787.63cb19f1.chunk.js": "/Book-Management-AWS/static/js/787.63cb19f1.chunk.js",
+    "index.html": "/Book-Management-AWS/index.html",
+    "main.54a45be5.css.map": "/Book-Management-AWS/static/css/main.54a45be5.css.map",
+    "main.09c43d77.js.map": "/Book-Management-AWS/static/js/main.09c43d77.js.map",
+    "787.63cb19f1.chunk.js.map": "/Book-Management-AWS/static/js/787.63cb19f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a45be5.css",
+    "static/js/main.09c43d77.js"
+  ]
+}
